@@ -120,7 +120,7 @@
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-rocket fa-3x"></i>
+							<i class="fa fa-gamepad fa-3x"></i>
 						</div>
 						<div class="col-md-8">
 							<h3>Gamemodes</h3>
@@ -129,7 +129,7 @@
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-crosshairs fa-3x"></i>
+							<i class="fa fa-gamepad fa-3x"></i>
 						</div>
 						<div class="col-md-8">
 							<h3>Great Community</h3>
