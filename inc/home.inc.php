@@ -137,16 +137,16 @@
 						</div>
 						<div class="col-md-8">
 							<h3>Games</h3>
-							<p>We don't only offer minecraft server but we also host different game servers! Check outour server page!</p>
+							<p>We don't only offer a minecraft server but we also host different game servers! Check out our server page!</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-gamepad fa-3x"></i>
+							<i class="fa fa-comments-o fa-3x"></i>
 						</div>
 						<div class="col-md-8">
 							<h3>Great Community</h3>
-							<p>With a friendly community of devoted players, keep in touch with ingame messaging and the forums!</p>
+							<p>With a friendly community of devoted players, keep in touch with ingame messaging, Voice chat on Teamspeak or Discord and the forums!</p>
 						</div>
 					</div>
 				</div>
