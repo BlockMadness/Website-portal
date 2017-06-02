@@ -118,7 +118,7 @@
 					<div class="col col-lg-2">
 					</div>
 					<div class="col-12 col-md-auto">
-					<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation" aria-hidden="true"></i>We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+					<div class="sos.error">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
 					</div>
 					<div class="col col-lg-2">
 					</div>
