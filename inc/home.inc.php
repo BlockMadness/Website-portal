@@ -112,14 +112,13 @@
 					</span> players currently online</p></div>
 			</div>
 		</div> <!-- /.jumbotron -->
-		<!-- Notice that server is down -->
-		<div class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
 
 		<!-- Features section -->
 		<div class="features">
 			<!-- feautre list -->
 			<div class="feature-list">
-
+<!-- Notice that server is down -->
+		<div class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
