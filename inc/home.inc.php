@@ -117,8 +117,14 @@
 		<div class="features">
 			<!-- feautre list -->
 			<div class="feature-list">
-<!-- Notice that server is down -->
-		<div class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+			<!-- Notice that server is down -->
+				<div class="container">
+					<div class="row">
+						<div class="col">&nbsp;</div>
+						<div class="col" class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+						<div class="col">&nbsp;</div>
+						</div>
+					</div>
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
@@ -172,7 +178,7 @@
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-gamepad fa-3x"></i>
+							<i class="fa fa-angle-double-up fa-3x"></i>
 						</div>
 						<div class="col-md-8">
 							<h3>Ranks</h3>
