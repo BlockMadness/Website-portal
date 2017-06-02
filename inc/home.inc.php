@@ -112,19 +112,22 @@
 					</span> players currently online</p></div>
 			</div>
 		</div> <!-- /.jumbotron -->
-
+		<!-- Notice that server is down -->
+			<div class="container">
+				<div class="row justify-content-md-center">
+					<div class="col col-lg-2">
+					</div>
+					<div class="col-12 col-md-auto">
+					<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation" aria-hidden="true"></i>We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+					</div>
+					<div class="col col-lg-2">
+					</div>
+				</div>
+			</div>
 		<!-- Features section -->
 		<div class="features">
 			<!-- feautre list -->
 			<div class="feature-list">
-			<!-- Notice that server is down -->
-				<div class="container">
-					<div class="row">
-						<div class="col">&nbsp;</div>
-						<div class="col" class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
-						<div class="col">&nbsp;</div>
-						</div>
-					</div>
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
