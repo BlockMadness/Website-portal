@@ -131,7 +131,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-gamepad fa-3x"></i>
+							<i class="fa fa-check fa-3x"></i>
 						</div>
 						<!-- Row one of features -->
 						<div class="col-md-8">
@@ -145,7 +145,7 @@
 						</div>
 						<div class="col-md-8">
 							<h3>Games</h3>
-							<p>At BlockMadness we offer a range of game servers! Come join us!</p>
+							<p>At BlockMadness we offer a variety game servers! Continuously adding more overtime!</p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -154,7 +154,7 @@
 						</div>
 						<div class="col-md-8">
 							<h3>Great Community</h3>
-							<p>With a friendly community of devoted players, keep in touch with ingame messaging, Voice chat on Teamspeak or Discord and the forums!</p>
+							<p>With a friendly community of devoted players, keep in touch with in-game messaging, Voice-Chat on Teamspeak or Discord or participate in discussions on the forums!</p>
 						</div>
 					</div>
 				</div>
@@ -163,29 +163,29 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-space-shuttle fa-3x"></i>
+							<i class="fa fa-handshake-o fa-3x"></i>
 						</div>
 						<div class="col-md-8">
-							<h3>Leaderboards</h3>
-							<p>Check who's got the highest mcMMO levels with <code>/mctop</code> in our Factions servers.</p>
+							<h3>Competitiveness</h3>
+							<p>Compete together with a group of friends in a variety of games! We all have our individual talents!</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-gamepad fa-3x"></i>
+							<i class="fa fa-hdd-o fa-3x"></i>
 						</div>
 						<div class="col-md-8">
-							<h3>DDoS Protected</h3>
+							<h3>Dedicated Hardware</h3>
 							<p>Our servers feature some of the most advanced DDoS mitigation available, so you can play with confidence.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="col-md-4 col-md-icon">
-							<i class="fa fa-angle-double-up fa-3x"></i>
+							<i class="fa fa-users fa-3x"></i>
 						</div>
 						<div class="col-md-8">
-							<h3>Ranks</h3>
-							<p>We do not Sell any ranks unlikely to other server! With us you rank up depening on your play time!</p>
+							<h3>Clans</h3>
+							<p>Within BlockMadness we have a range of clans. Create or join your own!</p>
 						</div>
 					</div>
 				</div>
