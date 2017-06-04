@@ -118,7 +118,7 @@
 					<div class="col col-lg-2">
 					</div>
 					<div class="col-12 col-md-auto">
-					<div class="alert alert-danger" role="alert">>We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+					<div class="alert alert-danger" role="alert">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
 					</div>
 					<div class="col col-lg-2">
 					</div>
@@ -130,7 +130,7 @@
 			<div class="feature-list">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-4">
-						<div class="col-md-4 col-md-icon">
+						<div class="col-md-4 col-md-icon-check">
 							<i class="fa fa-check fa-3x"></i>
 						</div>
 						<!-- Row one of features -->
