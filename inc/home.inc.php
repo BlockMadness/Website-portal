@@ -118,7 +118,7 @@
 					<div class="col col-lg-2">
 					</div>
 					<div class="col-12 col-md-auto">
-					<div class="sos.error">We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
+					<div class="alert alert-danger" role="alert">>We are aware that the server is not up at this time, We are doing our best to get it working ASAP.</div>
 					</div>
 					<div class="col col-lg-2">
 					</div>
@@ -176,7 +176,7 @@
 						</div>
 						<div class="col-md-8">
 							<h3>Dedicated Hardware</h3>
-							<p>Our servers feature some of the most advanced DDoS mitigation available, so you can play with confidence.</p>
+							<p>With our own high-spec hardware! We can ensure our services run smoothly!</p>
 						</div>
 					</div>
 					<div class="col-md-4">
