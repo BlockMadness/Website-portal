@@ -136,7 +136,7 @@
 						<!-- Row one of features -->
 						<div class="col-md-8">
 							<h3>In-game monitoring</h3>
-							<p>Our wonderful staff team is active in all of our servers, in order to provide you the best experience.</p>
+							<p>Our wonderful staff team is active in all of our servers, in order to provide you the best experience. </p>
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -145,7 +145,7 @@
 						</div>
 						<div class="col-md-8">
 							<h3>Games</h3>
-							<p>We don't only offer a minecraft server but we also host different game servers! Check out our server page!</p>
+							<p>At BlockMadness we offer a range of game servers! Come join us!</p>
 						</div>
 					</div>
 					<div class="col-md-4">
