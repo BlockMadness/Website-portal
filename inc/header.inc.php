@@ -32,7 +32,7 @@
 				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-						<li><a href="#forum"><i class="fa fa-comments"></i> Forum</a></li>
+						<li><a href="https://forums.blockmadness.com/"><i class="fa fa-comments"></i> Forum</a></li>
 						<li class="dropdown">
 							<!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-money"></i> Donate <span class="caret"></span></a>
 							<ul class="dropdown-menu">
