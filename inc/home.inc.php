@@ -110,6 +110,14 @@
 							}
 						?>
 					</span> players currently online</p></div>
+					
+							<!-- Clickable server IP -->
+				<div class="jumbotron-left">
+					<p>
+						Chat with us at <span class="jumbotron-server"><button class="jumbotron-server"><a href="ts3server://talk.blockmadness.com">talk.blockmadness.com</a></button></span>
+						<span id="jumbotron-copier"></i> Click to open Teamspeak</span>
+					</p>
+				</div>	
 			</div>
 		</div> <!-- /.jumbotron -->
 		<!-- Notice that server is down -->
